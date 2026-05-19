@@ -1,0 +1,7 @@
+#create_clock -name clk     -period 6.666  [get_ports clk]
+#create_clock -name axi_to_bram_clk -period 6.666 [get_ports axi_to_bram_clk]
+#create_clock -name bram_to_axi_clk -period 6.666 [get_ports bram_to_axi_clk]
+#create_clock -name s_axi_qkv_aclk -period 6.666 [get_ports s_axi_qkv_aclk]
+#create_clock -name s_axi_o_clk -period 6.666 [get_ports s_axi_o_clk]
+#create_clock -name s_axi_ctrl_aclk -period 6.666 [get_ports s_axi_ctrl_aclk]
+#create_clock -name s_axi_intc_aclk -period 6.666 [get_ports s_axi_intc_aclk]

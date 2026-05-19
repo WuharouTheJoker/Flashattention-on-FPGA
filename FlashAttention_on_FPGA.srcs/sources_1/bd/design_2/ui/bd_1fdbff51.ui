@@ -1,0 +1,40 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.964467",
+   "Default View_TopLeft":"-539,-779",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.5.8 2022-09-21 7111 VDI=41 GEI=38 GUI=JA:10.0
+#  -string -flagsOSRD
+preplace inst head_dim_128_top_mod_0 -pg 1 -lvl 4 -x 1300 -y -320 -defaultsOSRD
+preplace inst zynq_ultra_ps_e_0 -pg 1 -lvl 1 -x -100 -y 70 -defaultsOSRD
+preplace inst axi_cdma_0 -pg 1 -lvl 1 -x -100 -y -360 -defaultsOSRD
+preplace inst axi_cdma_1 -pg 1 -lvl 1 -x -100 -y -170 -defaultsOSRD
+preplace inst smartconnect_0 -pg 1 -lvl 3 -x 900 -y -20 -defaultsOSRD
+preplace inst smartconnect_1 -pg 1 -lvl 2 -x 470 -y -490 -defaultsOSRD
+preplace inst smartconnect_2 -pg 1 -lvl 2 -x 470 -y -120 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 4 -x 1300 -y 40 -defaultsOSRD
+preplace inst rst_ps8_0_149M -pg 1 -lvl 2 -x 470 -y -330 -defaultsOSRD
+preplace netloc head_dim_128_top_mod_0_irq 1 4 1 1460 -340n
+preplace netloc zynq_ultra_ps_e_0_pl_clk0 1 0 4 -440 -450 260 -580 670 -130 1130
+preplace netloc zynq_ultra_ps_e_0_pl_resetn0 1 1 1 280 -350n
+preplace netloc rst_ps8_0_149M_peripheral_aresetn 1 0 4 -420 -590 NJ -590 690 -120 1140
+preplace netloc axi_cdma_0_cdma_introut 1 1 3 210J -610 NJ -610 1100
+preplace netloc zynq_ultra_ps_e_0_M_AXI_HPM0_LPD 1 1 2 230 -570 660
+preplace netloc smartconnect_0_M00_AXI 1 0 4 -410 -620 NJ -620 N -620 1050
+preplace netloc smartconnect_0_M01_AXI 1 0 4 -430 -600 NJ -600 N -600 1040
+preplace netloc smartconnect_0_M02_AXI 1 3 1 1060 -450n
+preplace netloc smartconnect_0_M03_AXI 1 3 1 1080 -430n
+preplace netloc axi_cdma_0_M_AXI 1 1 1 220 -510n
+preplace netloc smartconnect_1_M00_AXI 1 2 2 680J -510 1090
+preplace netloc smartconnect_1_M01_AXI 1 0 3 -410 410 290J -230 640
+preplace netloc smartconnect_2_M00_AXI 1 2 2 650J -140 1070
+preplace netloc smartconnect_2_M01_AXI 1 0 3 -430 420 300J -220 640
+preplace netloc axi_cdma_1_M_AXI 1 1 1 270 -180n
+preplace netloc smartconnect_0_M04_AXI 1 3 1 N 20
+levelinfo -pg 1 -570 -100 470 900 1300 1480
+pagesize -pg 1 -db -bbox -sgen -570 -760 1590 830
+"
+}
+{
+   "da_clkrst_cnt":"13"
+}

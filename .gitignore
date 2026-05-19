@@ -1,0 +1,29 @@
+# Vivado generated directories
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Vivado logs
+*.jou
+*.log
+*.str
+
+# Vivado checkpoints
+*.dcp
+
+# Bitstream
+*.bit
+*.bin
+
+# Temporary
+*.tmp
+*.backup
+*~
+
+# OS
+.DS_Store
+Thumbs.db
