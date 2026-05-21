@@ -1,2 +1,0 @@
-fp16_add.v,verilog,xil_defaultlib,../../../../FlashAttention_on_FPGA.gen/sources_1/ip/fp16_add/sim/fp16_add.v,
-glbl.v,Verilog,xil_defaultlib,glbl.v

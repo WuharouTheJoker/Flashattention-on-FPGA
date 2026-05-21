@@ -1,6 +1,0 @@
-xpm_cdc.sv,systemverilog,xpm,F:/Xilinx/Vivado/2023.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,
-xpm_memory.sv,systemverilog,xpm,F:/Xilinx/Vivado/2023.2/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,
-xpm_VCOMP.vhd,vhdl,xpm,F:/Xilinx/Vivado/2023.2/data/ip/xpm/xpm_VCOMP.vhd,
-axi_bram_ctrl_v4_1_rfs.vhd,vhdl,axi_bram_ctrl_v4_1_9,../../../ipstatic/hdl/axi_bram_ctrl_v4_1_rfs.vhd,
-axi_bram_ctrl_o.vhd,vhdl,xil_defaultlib,../../../../../ip_repo/axi_bram_ctrl_o/sim/axi_bram_ctrl_o.vhd,
-glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,8 +1,0 @@
-xpm_memory.sv,systemverilog,xpm,F:/Xilinx/Vivado/2023.2/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,
-xpm_VCOMP.vhd,vhdl,xpm,F:/Xilinx/Vivado/2023.2/data/ip/xpm/xpm_VCOMP.vhd,
-xbip_utils_v3_0_vh_rfs.vhd,vhdl,xbip_utils_v3_0_11,../../../ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd,
-c_reg_fd_v12_0_vh_rfs.vhd,vhdl,c_reg_fd_v12_0_7,../../../ipstatic/hdl/c_reg_fd_v12_0_vh_rfs.vhd,
-c_mux_bit_v12_0_vh_rfs.vhd,vhdl,c_mux_bit_v12_0_7,../../../ipstatic/hdl/c_mux_bit_v12_0_vh_rfs.vhd,
-c_shift_ram_v12_0_vh_rfs.vhd,vhdl,c_shift_ram_v12_0_15,../../../ipstatic/hdl/c_shift_ram_v12_0_vh_rfs.vhd,
-s_buffer.vhd,vhdl,xil_defaultlib,../../../../FlashAttention_on_FPGA.gen/sources_1/ip/s_buffer/sim/s_buffer.vhd,
-glbl.v,Verilog,xil_defaultlib,glbl.v

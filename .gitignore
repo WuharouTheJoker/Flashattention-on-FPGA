@@ -3,6 +3,8 @@
 *.gen/
 *.runs/
 *.sim/
+*.ip_user_files/
+*.hw/
 .Xil/
 *.xpr
 

@@ -1,5 +1,0 @@
-vhdl xil_defaultlib  \
-"../../../../../ip_repo/axi_cdma_0/sim/axi_cdma_0.vhd" \
-
-# Do not sort compile order
-nosort

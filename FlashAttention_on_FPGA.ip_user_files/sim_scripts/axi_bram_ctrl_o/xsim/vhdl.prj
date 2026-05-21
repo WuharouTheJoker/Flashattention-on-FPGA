@@ -1,5 +1,0 @@
-vhdl xil_defaultlib  \
-"../../../../../ip_repo/axi_bram_ctrl_o/sim/axi_bram_ctrl_o.vhd" \
-
-# Do not sort compile order
-nosort

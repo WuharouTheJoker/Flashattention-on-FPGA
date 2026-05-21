@@ -1,1 +1,0 @@
-vopt -l elaborate.log +acc=npr -suppress 10016  -L xil_defaultlib -L xpm -L axi_bram_ctrl_v4_1_9 -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.axi_bram_ctrl_o xil_defaultlib.glbl -o axi_bram_ctrl_o_opt
