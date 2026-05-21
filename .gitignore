@@ -4,6 +4,7 @@
 *.runs/
 *.sim/
 .Xil/
+*.xpr
 
 # Vivado logs
 *.jou
