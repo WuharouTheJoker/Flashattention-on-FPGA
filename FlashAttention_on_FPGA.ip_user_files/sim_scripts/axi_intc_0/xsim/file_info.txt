@@ -1,0 +1,2 @@
+axi_intc_0.vhd,vhdl,xil_defaultlib,../../../../../ip_repo/axi_intc_0/sim/axi_intc_0.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

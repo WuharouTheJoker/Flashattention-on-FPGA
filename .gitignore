@@ -1,8 +1,6 @@
 # Vivado generated directories
 *.cache/
 *.gen/
-*.hw/
-*.ip_user_files/
 *.runs/
 *.sim/
 .Xil/
@@ -18,6 +16,8 @@
 # Bitstream
 *.bit
 *.bin
+*.xsa
+*.tcl
 
 # Temporary
 *.tmp
@@ -27,3 +27,5 @@
 # OS
 .DS_Store
 Thumbs.db
+
+mem_out*/

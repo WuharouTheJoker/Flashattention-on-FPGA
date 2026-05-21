@@ -1,0 +1,4 @@
+axi_flashattention2_unit_ctrl_v1_0_S00_AXI.v,verilog,xil_defaultlib,../../../../../ip_repo/axi_flashattention2_unit_ctrl_1/hdl/axi_flashattention2_unit_ctrl_v1_0_S00_AXI.v,
+axi_flashattention2_unit_ctrl_v1_0.v,verilog,xil_defaultlib,../../../../../ip_repo/axi_flashattention2_unit_ctrl_1/hdl/axi_flashattention2_unit_ctrl_v1_0.v,
+axi_flashattention2_unit_ctrl_1.v,verilog,xil_defaultlib,../../../../../ip_repo/axi_flashattention2_unit_ctrl_1/sim/axi_flashattention2_unit_ctrl_1.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

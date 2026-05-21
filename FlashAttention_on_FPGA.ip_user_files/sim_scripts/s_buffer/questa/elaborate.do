@@ -1,0 +1,1 @@
+vopt -l elaborate.log +acc=npr -suppress 10016  -L xil_defaultlib -L xpm -L xbip_utils_v3_0_11 -L c_reg_fd_v12_0_7 -L c_mux_bit_v12_0_7 -L c_shift_ram_v12_0_15 -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.s_buffer xil_defaultlib.glbl -o s_buffer_opt

@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../../ip_repo/axi_bram_ctrl_qkv_128/sim/axi_bram_ctrl_qkv_128.vhd" \
+
+# Do not sort compile order
+nosort

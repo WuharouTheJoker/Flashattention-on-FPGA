@@ -1,0 +1,2 @@
+axi_bram_ctrl_qkv_128.vhd,vhdl,xil_defaultlib,../../../../../ip_repo/axi_bram_ctrl_qkv_128/sim/axi_bram_ctrl_qkv_128.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

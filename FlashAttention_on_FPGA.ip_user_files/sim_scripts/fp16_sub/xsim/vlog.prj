@@ -1,0 +1,7 @@
+verilog xil_defaultlib  \
+"../../../../FlashAttention_on_FPGA.gen/sources_1/ip/fp16_sub/sim/fp16_sub.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
